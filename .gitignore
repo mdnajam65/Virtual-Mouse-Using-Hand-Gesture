@@ -1,0 +1,18 @@
+# Virtual environment directories
+venv/
+env/
+tensorflow_env/
+
+# Dataset directories
+New_gesture_Image128x128/
+newImage128x128/
+SignImage128x128/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.h5
+# Logs
+*.log

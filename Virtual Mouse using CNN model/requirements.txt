@@ -1,0 +1,7 @@
+tensorflow
+keras
+opencv-contib-python
+pyautogui
+time
+win32gui
+win32con
