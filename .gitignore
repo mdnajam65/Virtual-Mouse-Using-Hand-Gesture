@@ -1,8 +1,8 @@
 # Virtual environment directories
-venv/
+.venv/
 env/
 tensorflow_env/
-
+**/__pycache__/
 # Dataset directories
 New_gesture_Image128x128/
 newImage128x128/
